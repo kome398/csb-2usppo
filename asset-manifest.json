@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-2usppo/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://.github.io/csb-2usppo/static/js/main.f399465a.chunk.js",
-    "main.js.map": "https://.github.io/csb-2usppo/static/js/main.f399465a.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-2usppo/static/js/runtime-main.e18d6804.js",
-    "runtime-main.js.map": "https://.github.io/csb-2usppo/static/js/runtime-main.e18d6804.js.map",
-    "static/js/2.fef78c52.chunk.js": "https://.github.io/csb-2usppo/static/js/2.fef78c52.chunk.js",
-    "static/js/2.fef78c52.chunk.js.map": "https://.github.io/csb-2usppo/static/js/2.fef78c52.chunk.js.map",
-    "index.html": "https://.github.io/csb-2usppo/index.html",
-    "static/css/main.f29ae65a.chunk.css.map": "https://.github.io/csb-2usppo/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.fef78c52.chunk.js.LICENSE.txt": "https://.github.io/csb-2usppo/static/js/2.fef78c52.chunk.js.LICENSE.txt"
+    "main.css": "https://kome398.github.io/csb-2usppo/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://kome398.github.io/csb-2usppo/static/js/main.ad3d5c08.chunk.js",
+    "main.js.map": "https://kome398.github.io/csb-2usppo/static/js/main.ad3d5c08.chunk.js.map",
+    "runtime-main.js": "https://kome398.github.io/csb-2usppo/static/js/runtime-main.fd2ca6f8.js",
+    "runtime-main.js.map": "https://kome398.github.io/csb-2usppo/static/js/runtime-main.fd2ca6f8.js.map",
+    "static/js/2.f03a73e7.chunk.js": "https://kome398.github.io/csb-2usppo/static/js/2.f03a73e7.chunk.js",
+    "static/js/2.f03a73e7.chunk.js.map": "https://kome398.github.io/csb-2usppo/static/js/2.f03a73e7.chunk.js.map",
+    "index.html": "https://kome398.github.io/csb-2usppo/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://kome398.github.io/csb-2usppo/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.f03a73e7.chunk.js.LICENSE.txt": "https://kome398.github.io/csb-2usppo/static/js/2.f03a73e7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e18d6804.js",
-    "static/js/2.fef78c52.chunk.js",
+    "static/js/runtime-main.fd2ca6f8.js",
+    "static/js/2.f03a73e7.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.f399465a.chunk.js"
+    "static/js/main.ad3d5c08.chunk.js"
   ]
 }
